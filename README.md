@@ -1,6 +1,6 @@
 # OmkumarMangukiya.github.io
 ## Hello my name is Omkumar Mangukiya
-#include <stdio.h>
+`#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
@@ -212,5 +212,5 @@ int main() {
     }
 
     return 0;
-}
+}`
 ## https://github.com/OmkumarMangukiya/MERNstack-cohort
